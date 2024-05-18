@@ -1,8 +1,7 @@
 # Matheus Bampi
 
-📚 Computer Science Student at UFRGS
-
-💻 Software Development Lead at Nelogica
+📚 Masters in Computer Science @ UFRGS
+💻 Software Engineer @ Uber
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/mbampi)
