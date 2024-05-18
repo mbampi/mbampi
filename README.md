@@ -1,4 +1,4 @@
-# Matheus Bampi
+# Matheus Dussin Bampi
 
 
 📚 Masters in Computer Science @ UFRGS
